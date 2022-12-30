@@ -92,5 +92,3 @@ while machine_on:
 
     else:
         print("Please enter a valid option! Thank you!")
-
-# TODO
